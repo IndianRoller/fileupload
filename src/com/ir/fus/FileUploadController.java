@@ -1,4 +1,4 @@
-package com.ir.fps1;
+package com.ir.fus;
 
 import java.io.File;
 import java.io.FileInputStream;

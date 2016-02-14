@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
-  <display-name>fps1</display-name>
+  <display-name>fus</display-name>
   <welcome-file-list>
     <welcome-file>upload.jsp</welcome-file>
   </welcome-file-list>
@@ -8,7 +8,7 @@
     <description></description>
     <display-name>FileUploadController</display-name>
     <servlet-name>FileUploadController</servlet-name>
-    <servlet-class>com.ir.fps1.FileUploadController</servlet-class>
+    <servlet-class>com.ir.fus.FileUploadController</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>FileUploadController</servlet-name>
